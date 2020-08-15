@@ -1,0 +1,26 @@
+<annotation>
+	<folder>amul butter</folder>
+	<filename>frame0_rotated_0.jpg</filename>
+	<path>G:\image_proccessing\data_object_detection_sample\amul butter\frame0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amul_butter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>10</ymin>
+			<xmax>1118</xmax>
+			<ymax>1070</ymax>
+		</bndbox>
+	</object>
+</annotation>

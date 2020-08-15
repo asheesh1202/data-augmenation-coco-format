@@ -1,0 +1,26 @@
+<annotation>
+	<folder>basmati rice</folder>
+	<filename>frame1_h_shifted_9.jpg</filename>
+	<path>G:\image_proccessing\data_object_detection_sample\basmati rice\frame1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basmati_rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>31</ymin>
+			<xmax>525</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>
