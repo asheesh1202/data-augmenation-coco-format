@@ -1,4 +1,4 @@
-## This repository contains all the Notebooks and files containing python code snippets which helped us to have develop final script : dataset_generator.py
+## This repository contains all the Notebooks and files containing python code snippets which helped us to develop final script : dataset_generator.py
 
 ## Data-augmenation-coco-format
 
