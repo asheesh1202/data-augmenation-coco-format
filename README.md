@@ -1,4 +1,5 @@
-# data-augmenation-coco-format
+#This repository contains all the Notebooks and files containing python code snippets which helped us to have develop final script : dataset_generator.py
+#data-augmenation-coco-format
 
 [Data Augmentation for Bounding Boxes.ipynb](https://github.com/asheesh1202/data-augmenation-coco-format/blob/master/Data%20Augmentation%20for%20Bounding%20Boxes.ipynb) is the main jupyter notebook for data augmentaion which contains multiple munction that can perform various augmentaion.
 
