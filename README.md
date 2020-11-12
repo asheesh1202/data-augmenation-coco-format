@@ -23,4 +23,5 @@ please look into [Data Augmentation for Bounding Boxes.ipynb](https://github.com
  
  Output images and xml file will be generated in the generated folder `aug` inside the input folder.
  
+ ## Repo also contains util scripts to convert xml to csv, extract images from vedio, xml data parsers.
  
